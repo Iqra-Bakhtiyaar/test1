@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/pl/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iqrabakhtiyaar.netlify.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://iqrabakhtiyaar.netlify.com/pl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/pl/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iqrabakhtiyaar.netlify.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://iqrabakhtiyaar.netlify.com/pl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/pl/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iqrabakhtiyaar.netlify.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://iqrabakhtiyaar.netlify.com/pl/tags/"
+                />
+  </url>
+  
+</urlset>

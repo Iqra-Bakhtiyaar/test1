@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/achievements/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/projects/cryptocurrencies/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/projects/quiz/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/projects/robot-controller/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/projects/the-traffic-light-controller/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/projects/tic-tac-toe/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/contact/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://iqrabakhtiyaar.netlify.com/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iqrabakhtiyaar.netlify.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://iqrabakhtiyaar.netlify.com/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iqrabakhtiyaar.netlify.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/projects/</loc>
+    <lastmod>2018-09-11T21:15:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iqrabakhtiyaar.netlify.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://iqrabakhtiyaar.netlify.com/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iqrabakhtiyaar.netlify.com/tags/"
+                />
+  </url>
+  
+</urlset>

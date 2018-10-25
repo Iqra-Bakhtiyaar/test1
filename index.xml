@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iqra Bakhtiyaar</title>
+    <link>https://iqrabakhtiyaar.netlify.com/</link>
+    <description>Recent content on Iqra Bakhtiyaar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Sep 2018 21:15:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://iqrabakhtiyaar.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Achievments</title>
+      <link>https://iqrabakhtiyaar.netlify.com/achievements/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/achievements/</guid>
+      <description>Excellent Grades
+ - First Class B.SC Hons Computer Science degree   - Retail awards  As a committed and consistent employee, I am proud to be achieving colleague of the quarter and colleague of the period awards in 2017.
+ - 2nd prize winner  This prize was given by Middlesex University for developing the software of a robot controlled from a website as part of a project in 2016.</description>
+    </item>
+    
+    <item>
+      <title>Exploring cryptocurrencies</title>
+      <link>https://iqrabakhtiyaar.netlify.com/projects/cryptocurrencies/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/projects/cryptocurrencies/</guid>
+      <description>Oct 2017- Apr 2018
+On this project I carried out a research on various coins including Bitcoin, Ethereum, Litecoin, Cardano, RChain and fundamental topics of cryptocurrencies. The main purpose was to spread awareness on cryptocurrencies as not many people were aware at that time about uses and abuses of cryptocurrencies. I developed a website for this purpose and to evaluate the project the website was presented to a sample of 30 people and overall response was encouraging and good.</description>
+    </item>
+    
+    <item>
+      <title>Quiz Game</title>
+      <link>https://iqrabakhtiyaar.netlify.com/projects/quiz/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/projects/quiz/</guid>
+      <description>Apr 2016- May 2016
+This quiz game tests if the player is a true londoner by asking questions about London. The game was developed in HTML, CSS, PHP, Javascript and Jquery.
+Take my quiz</description>
+    </item>
+    
+    <item>
+      <title>Robot controller</title>
+      <link>https://iqrabakhtiyaar.netlify.com/projects/robot-controller/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/projects/robot-controller/</guid>
+      <description>Mar 2015- Apr 2015
+As part of final project of my 1st year in Computer Science I developed software of a robot which could be controlled from a website. The main idea was to control this robot from anywhere around the world. This robot shown in the image could do simple movements such as moving forward, backwards, right, left and in circles.
+Following is the website developed in Dr.Racket.  This robot was also equipped with a camera and the output could be seen on the website.</description>
+    </item>
+    
+    <item>
+      <title>The Traffic Light Controller</title>
+      <link>https://iqrabakhtiyaar.netlify.com/projects/the-traffic-light-controller/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/projects/the-traffic-light-controller/</guid>
+      <description>Oct 2017- Apr 2018
+A mini project
+The software of this project was written in Dr.Racket and Arduino board was used for hardware.
+Here is the code
+;; Make sure long pin on led goes to anode (5 volt) and short goes to cathode (ground)  (require &amp;ldquo;AsipMain.rkt&amp;rdquo;)  (define ld (λ ()  (digital-write 13 HIGH)  (sleep 2)  (displayln 2)  (digital-write 13 LOW)  (sleep 2)  (ld)</description>
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>https://iqrabakhtiyaar.netlify.com/projects/tic-tac-toe/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/projects/tic-tac-toe/</guid>
+      <description>Dec 2015
+This tic tac toe game was developed in Dr.Racket.
+ </description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://iqrabakhtiyaar.netlify.com/contact/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://iqrabakhtiyaar.netlify.com/contact/</guid>
+      <description> Email:  iqrabakhtiyaar@gmail.com  LinkedIn </description>
+    </item>
+    
+  </channel>
+</rss>
